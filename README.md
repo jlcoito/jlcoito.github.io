@@ -37,8 +37,8 @@ Lisbon, Portugal
 
 
 ### Projects
-Bank Lending Project (in constructions)
+Bank Lending Project (under construction)
 
-Disaster Tweet Analysis (in constructions)
+Disaster Tweet Analysis (under constructions)
 
-Dog Vision (in constructions)
+Dog Vision (under construction)
