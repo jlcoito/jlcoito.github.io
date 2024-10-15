@@ -44,4 +44,4 @@ Disaster Tweet
 Dog Vision
 
 
-### Publication
+### Publications
