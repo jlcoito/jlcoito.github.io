@@ -19,7 +19,7 @@ Seattle, WA, USA
 
 
 **PostDoc Researcher @ Instituto Superior de Agronomia (_May 2019 - December 2022_)** /n
-Lisbon, Portugal
+/n Lisbon, Portugal
 - Designed experimental frameworks and conducted data analysis, including statistical validation, to advance research in cellular and developmental biology.
 - Conducted research in grapevine cluster development and possible genetic markers to identify loose clusters versus compact clusters in order to improve plant selections.
 - Served as an invited lecturer and mentor, guiding students in their research projects and ensuring their understanding of complex biological data.
