@@ -37,11 +37,8 @@ Lisbon, Portugal
 
 
 ### Projects
-Lending Prediction
+Bank Lending Project (in constructions)
 
-Disaster Tweet
+Disaster Tweet Analysis (in constructions)
 
-Dog Vision
-
-
-### Publications
+Dog Vision (in constructions)
