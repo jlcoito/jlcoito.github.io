@@ -36,7 +36,8 @@ Lisbon, Portugal
 - Managed greenhouse and vineyard environments, ensuring optimal experimental conditions and reliable data collection.
 
 
-### Projects
+### Data Science Projects
+
 **Bank Lending Project**
 
 ![image alt](https://github.com/jlcoito/jlcoito.github.io/blob/2595022709a9e37bf5618798b84500220ce83a83/assets/img/dataset-cover.jpg)
