@@ -39,6 +39,7 @@ Lisbon, Portugal
 ### Data Science Projects
 
 **Bank Lending Project**
+
 [Repository Link](https://github.com/jlcoito/Customer-Segmentation-Project)
 
 ![image alt](https://github.com/jlcoito/jlcoito.github.io/blob/2595022709a9e37bf5618798b84500220ce83a83/assets/img/dataset-cover.jpg)
