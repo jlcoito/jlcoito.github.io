@@ -39,7 +39,7 @@ Lisbon, Portugal
 ### Projects
 **Bank Lending Project**
 
-
+![dataset-cover](https://github.com/user-attachments/assets/d5b55851-8ba5-4467-bfcf-cbfa58b86c2c)
 
 This project is based on the Kaggle [Default of Credit Card Clients dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset?select=UCI_Credit_Card.csv) and focuses on helping a bank minimize losses due to bad lending practices. The bank incurs high costs when customers fail to pay on time, and the goal is to develop a machine learning model that can accurately predict which customers are likely to default on their loans. The key costs are:
 
