@@ -37,7 +37,19 @@ Lisbon, Portugal
 
 
 ### Projects
-Bank Lending Project (under construction)
+**Bank Lending Project**
+This project is based on the Kaggle [Default of Credit Card Clients dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset?select=UCI_Credit_Card.csv) and focuses on helping a bank minimize losses due to bad lending practices. The bank incurs high costs when customers fail to pay on time, and the goal is to develop a machine learning model that can accurately predict which customers are likely to default on their loans. The key costs are:
+
+    €1,000 for misclassifying a paying customer as a non-payer.
+    €3,000 for misclassifying a non-payer as a paying customer.
+
+As a base line for the project the cost to the bank was calculated as if the bank would consider all gustomers good paying customers with the formula:
+$$totalCost = 1000∗FP+3000∗FN$$
+If the bank considers all clients as good payers, it will incur a cost of **$3.939.000**
+
+Models Used: Three models were tested: SVM, Random Forest, and XGBoost. Among these, XGBoost performed the best, achieving an accuracy of 0.82.
+
+Cost Reduction: Using XGBoost, the bank's costs could be reduced to €2,415,000, a significant drop from the €3,939,000 the bank would incur if it treated all customers as good payers. Additionally, if the bank considered all customers as bad payers, the cost would rise to €4,687,000.
 
 Disaster Tweet Analysis (under constructions)
 
