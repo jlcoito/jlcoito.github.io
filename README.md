@@ -55,5 +55,6 @@ $$totalCost = 1000∗FP+3000∗FN$$. If the bank considers all clients as good p
 Models Used: Three models were tested: SVM, Random Forest, and XGBoost. Among these, XGBoost performed the best, achieving an accuracy of 0.82.
 Using XGBoost, the bank's costs could be reduced to €2,415,000, a significant drop from the €3,939,000 the bank would incur if it treated all customers as good payers. Additionally, if the bank considered all customers as bad payers, the cost would rise to €4,687,000.
 
-**Dog Race Identification** 
+**Dog Race Identification Project** 
+
 (under construction)
