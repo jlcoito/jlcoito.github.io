@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst | Data Scientist | Business Intelligence
 
 #### Technical Skills: Python, SQL, Microsoft Fabric, Microsoft PowerBI 
 
