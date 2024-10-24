@@ -42,7 +42,7 @@ Lisbon, Portugal
 
 [Repository Link](https://github.com/jlcoito/Customer-Segmentation-Project)
 
-![image alt](https://github.com/jlcoito/jlcoito.github.io/blob/2595022709a9e37bf5618798b84500220ce83a83/assets/img/dataset-cover.jpg)
+![image alt](assets/img/dataset-cover.jpg)
 
 This project is based on the Kaggle [Default of Credit Card Clients dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset?select=UCI_Credit_Card.csv) and focuses on helping a bank minimize losses due to bad lending practices. The bank incurs high costs when customers fail to pay on time, and the goal is to develop a machine learning model that can accurately predict which customers are likely to default on their loans. The key costs are:
 
